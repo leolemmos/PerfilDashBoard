@@ -15,8 +15,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Rafa-Csharp" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
-  <img align="right" alt="Rafa-pic" height="160" style="border-radius:30px;" src="https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/274196290_4794240724026279_5218636143198434504_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHNFY6MkqD6zxK1TgbZcDA50U6_KPOiZwrRTr8o86JnCsbkLRbXNIcPoVopo5owIqyd4AyULIfE_JTo1PmU0g2S&_nc_ohc=NSQVWo6Q1GgAX8VZvrC&_nc_ht=scontent-for1-1.xx&oh=00_AT86M0kNJrHx1srOfU2_xEx3tVwfk0-nvBDGdJDl-p6amQ&oe=62120169">
-</div>
+ 
   
   ##
  
@@ -27,7 +26,12 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/273968902_4794284014021950_5145723779840344656_n.jpg?stp=cp0_dst-jpg&_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeE3JzkEUPniRwLqRFUxi5lDP7S_7OnGzt4_tL_s6cbO3hG-ucJ_DTnM9G0CItSr9_VTlSpWO_S7Z-G61FRhYN_k&_nc_ohc=POQ2Vl1I4p0AX8vgE_L&_nc_ht=scontent-for1-1.xx&oh=00_AT_50cg-nR-DjoHX4RJ44K2rAg4UOwGndYMxxpmun3PqWw&oe=6212F5EF"></a> 
   <a href = "https://www.instagram.com/prof_leolemos/"><img src="https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/273943956_4794284577355227_6417293045658039475_n.jpg?stp=cp0_dst-jpg&_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeEu4_qhi9QdqUNe_NYfdGD-MwvlU5qE5nAzC-VTmoTmcLCE7BOFnHgt43gypXY6cYQuj6FwF1oftQwFmlzjXLMz&_nc_ohc=drGRohnsEVEAX8le8rT&_nc_oc=AQk0SrskfNHLRWlEWZZEBlSfg22F3CXwiTv9pXunA-jEiZWmgaa6A98gp8RmpUtEaJiGpULw69bv-IQ_Gl4oTWYE&_nc_ht=scontent-for1-1.xx&oh=00_AT-Xnnl3XPKLAFhK7G5d4YmkqYOUy57cCdjBLN_Ul5-7ww&oe=6212980F"></a>
    <a href = "https://www.facebook.com/professorleolemos/"><img src="https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/cp0/274139342_4794285167355168_1311162172605555014_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFd38vWLQGp8GxWKZ3r-1DJ3Zd6XdyaOTLdl3pd3Jo5Mhs5BEUHp77jbi7O1_O7iAhEkKUDPF5azYwBi-4mkNUQ&_nc_ohc=Cct2gbPjvFYAX95SGVG&_nc_ht=scontent-for1-1.xx&oh=00_AT9GjpCP6x4SwouEJQBDrznsme5EA08hytDVjKP3VnpilA&oe=6211D99B"></a>
-    
+
+   <img align="right" alt="Rafa-pic" height="160" style="border-radius:30px;" src="https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/274196290_4794240724026279_5218636143198434504_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHNFY6MkqD6zxK1TgbZcDA50U6_KPOiZwrRTr8o86JnCsbkLRbXNIcPoVopo5owIqyd4AyULIfE_JTo1PmU0g2S&_nc_ohc=NSQVWo6Q1GgAX8VZvrC&_nc_ht=scontent-for1-1.xx&oh=00_AT86M0kNJrHx1srOfU2_xEx3tVwfk0-nvBDGdJDl-p6amQ&oe=62120169">
+</div>
+ 
+  
+   
   </div>
   
   
