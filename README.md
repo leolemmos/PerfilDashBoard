@@ -1,7 +1,8 @@
 
 ## Hello devs! Sou Leonardo Lemos desenvolvedor e instrutor de tecnologia  da informação 👨‍💻
 
-<div align="center">
+<body style="background-color:gray;">
+<div align="left">
   <a href="https://github.com/leolemmos">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leolemmos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolemmos&layout=compact&langs_count=7&theme=dracula"/>
