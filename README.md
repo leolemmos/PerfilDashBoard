@@ -31,7 +31,7 @@
   
  
   <div>
-  <img align="right" alt="Rafa-pic" height="160" style="border-radius:30px;" src="https://imagensleolemos.files.wordpress.com/2022/02/log5.png">
+  <img align="right" alt="Rafa-pic" height="160" style="border-radius:30px;" src="https://imagensleolemos.files.wordpress.com/2022/02/logo5.png?w=648">
   <img align="left" alt="Rafa-pic" height="150" style="border-radius:25px;" src="https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif">
  </di>
   </div>
