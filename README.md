@@ -28,7 +28,7 @@
   <a href = "https://www.instagram.com/prof_leolemos/"><img src="https://imagensleolemos.files.wordpress.com/2022/02/09.png"></a>
    <a href = "https://www.facebook.com/professorleolemos/"><img src="https://imagensleolemos.files.wordpress.com/2022/02/10.png"></a>
 
-   <img align="right" alt="Rafa-pic" height="160" style="border-radius:30px;" src="https://scontent-for1-1.xx.fbcdn.net/v/t39.30808-6/274196290_4794240724026279_5218636143198434504_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeHNFY6MkqD6zxK1TgbZcDA50U6_KPOiZwrRTr8o86JnCsbkLRbXNIcPoVopo5owIqyd4AyULIfE_JTo1PmU0g2S&_nc_ohc=NSQVWo6Q1GgAX8VZvrC&_nc_ht=scontent-for1-1.xx&oh=00_AT86M0kNJrHx1srOfU2_xEx3tVwfk0-nvBDGdJDl-p6amQ&oe=62120169">
+   <img align="right" alt="Rafa-pic" height="160" style="border-radius:30px;" src="https://imagensleolemos.files.wordpress.com/2022/02/log5.png">
 </div>
  
   
