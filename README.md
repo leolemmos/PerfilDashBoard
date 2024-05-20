@@ -1,5 +1,5 @@
 
-### Hello devs! Sou Leonardo Lemos desenvolvedor e instrutor de tecnologia  da informação 👨‍💻
+### Hello devs! Sou Leonardo Lemos 👨‍💻
 
 <body style="background-color:gray;">
 <div align="left">
@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/leolemmos/" target="_blank"><img src="https://imagensleolemos.files.wordpress.com/2022/02/04.png" target="_blank"></a>
   <a href = "https://github.com/leolemmos"><img src="https://imagensleolemos.files.wordpress.com/2022/02/01.png"></a> 
   <a href = "https://www.instagram.com/prof_leolemos/"><img src="https://imagensleolemos.files.wordpress.com/2022/02/09.png"></a>
-   <a href = "https://www.facebook.com/professorleolemos/"><img src="https://imagensleolemos.files.wordpress.com/2022/02/10.png"></a>
+  
  
   
  
